@@ -1,47 +1,46 @@
-📝 Trendify Blog LLD (Java Console Version)
-A Java console‑based application to simulate a blogging website using Object‑Oriented Programming (OOP) principles.
+# 📝 **Trendify Blog LLD (Java Console Version)**
 
-📌 Features
-✍️ Create and manage blog posts
+### 💻 A Java console‑based application to simulate a blogging website using **Object‑Oriented Programming (OOP)** principles.
 
-💬 Add comments to posts
+---
 
-👥 Simulate user interactions
+## 📌 **Features**
+- ✍️ **Create and manage blog posts**
+- 💬 **Add comments to posts**
+- 👥 **Simulate user interactions**
+- 📋 **View all posts and comments**
+- 🗂️ **Provides a solid OOP design for future expansion**
 
-📋 View all posts and comments
+---
 
-🗂️ Provides a solid OOP design for future expansion
+## ⚙️ **Technologies Used**
+- ☕ **Java (JDK 8 or later)**  
+- 🛠️ **Eclipse IDE**  
+- 🧩 **OOP Concepts (Encapsulation, Inheritance, Polymorphism)**  
+- 🖥️ **Console‑based I/O**  
 
-⚙️ Technologies Used
-☕ Java (JDK 8 or later)
+---
 
-🛠️ Eclipse IDE
+## 💡 **Usage**
+- 🗨️ **Launch the program.**
+- ➕ **Create new posts.**
+- 👁️ **View existing posts.**
+- 💬 **Add and read comments.**
+- 👥 **Observe object relationships simulating a blogging website.**
 
-🧩 OOP Concepts (Encapsulation, Inheritance, Polymorphism)
+---
 
-🖥️ Console‑based I/O
+## 🔮 **Future Improvements**
+- 🔐 **User authentication and profiles**  
+- 💾 **Persistent storage with a database**  
+- 🌐 **REST APIs for a full‑stack version**  
+- ✅ **Automated test cases**  
 
-💡 Usage
-🗨️ Launch the program.
+---
 
-➕ Create new posts.
+## 👤 **Author**
+**Sachin** — [GitHub Profile](https://github.com/Sachin1043)
 
-👁️ View existing posts.
+---
 
-💬 Add and read comments.
-
-👥 Observe object relationships simulating a blogging website.
-
-🔮 Future Improvements
-🔐 User authentication and profiles
-
-💾 Persistent storage with a database
-
-🌐 REST APIs for a full‑stack version
-
-✅ Automated test cases
-
-👤 Author
-Sachin
-GitHub Profile
 
